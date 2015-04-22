@@ -70,7 +70,7 @@ Awesome Open Source Projects in Uyghur Language
 - [Uyghur-Terms](https://github.com/Uyghur-LRs/Uyghur-Terms)
 - [Uyghur-Wordlist](https://github.com/Uyghur-LRs/Uyghur-Wordlist)
 - []()
-- 
+ 
 ## iOS
 - [UyghurSDK-iOS](https://github.com/Alimjan2009/UyghurSDK-iOS)
 - [UyghurKeyBoardForSwift](https://github.com/Sabirjan/UyghurKeyBoardForSwift)
@@ -83,11 +83,16 @@ Awesome Open Source Projects in Uyghur Language
 - [discuz_x_uyghur](https://github.com/finalfantasia/discuz_x_uyghur)
 - [django-i18n-for-uyghurlanguage](https://github.com/almasgeek/django-i18n-for-uyghurlanguage)
 - [otyaz](https://github.com/ablimit/otyaz)
+- [wp-uighur-fonts](https://github.com/wp-plugins/wp-uighur-fonts)
 
 ## Books
 - [JQueryBasic-Uyghur](https://github.com/IlhamTahir/JQueryBasic-Uyghur)
 - []()
 - []()
+
+
+## Games
+- [PicturePiece](https://github.com/teshna01/PicturePiece)
 
 
 
