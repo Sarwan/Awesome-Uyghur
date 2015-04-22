@@ -15,8 +15,8 @@ Awesome Open source Projects in Uyghur Language
 
 
 ## Language Prosessing
-[](https://github.com/Sarwan/ChaghataiKeyboardLayout)
-[](https://github.com/Sarwan/OldTurkicKeyboardLayout)
+[ChaghataiKeyboardLayout](https://github.com/Sarwan/ChaghataiKeyboardLayout)
+[OldTurkicKeyboardLayout](https://github.com/Sarwan/OldTurkicKeyboardLayout)
 [UyTools-uyghur spellchecking](https://github.com/iwethen/UyTools)
 [Uyghur-Tokenizer](https://github.com/mardan/Uyghur-Tokenizer)
 [LatinCodeConverter](https://github.com/Sarwan/LatinCodeConverter)
@@ -28,9 +28,9 @@ Awesome Open source Projects in Uyghur Language
 ## Web
 
 [bootstrap-uyghur](https://github.com/Sarwan/bootstrap-uyghur)
-[](https://github.com/Sarwan/PrayerTimes-Uyghur)
+[PrayerTimes-Uyghur](https://github.com/Sarwan/PrayerTimes-Uyghur)
 [jQueryPluginUyghurInput](https://github.com/Sarwan/jQueryPluginUyghurInput)
-[](https://github.com/Sarwan/TerjimeFilimTori)
+[TerjimeFilimTori](https://github.com/Sarwan/TerjimeFilimTori)
 []()
 []()
 []()
@@ -41,3 +41,4 @@ Awesome Open source Projects in Uyghur Language
 []()
 []()
 []()
+
