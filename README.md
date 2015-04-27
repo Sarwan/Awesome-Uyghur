@@ -1,5 +1,8 @@
 # Awesome-Uyghur
 Awesome Open Source Projects in Uyghur Language
+بەلەن ئوچۇق كودلۇق تۈرلەر
+
+### تەۋىسسىيە قىلىڭ! تىزىملىككە قوشىلىدۇ.
 
 
 ## Android Projets
@@ -21,15 +24,7 @@ Awesome Open Source Projects in Uyghur Language
 - [UyghurKeyboard](https://github.com/Sabirjan/UyghurKeyboard)
 - [YanfonTorBatForAndroid](https://github.com/Sabirjan/YanfonTorBatForAndroid)
 - [UyghurAndroidApp_Qaq](https://github.com/Sabirjan/UyghurAndroidApp_Qaq)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+
 
 ## Language Prosessing
 - [ChaghataiKeyboardLayout](https://github.com/Sarwan/ChaghataiKeyboardLayout)
@@ -45,9 +40,7 @@ Awesome Open Source Projects in Uyghur Language
 - [ug_vk](https://github.com/finalfantasia/ug_vk)
 - [ug_shaper](https://github.com/finalfantasia/ug_shaper)
 - [cn,uy segmentation](https://github.com/xperian/seg)
-- []()
-- []()
-- []()
+
 
 ## Web
 
@@ -56,26 +49,21 @@ Awesome Open Source Projects in Uyghur Language
 - [jQueryPluginUyghurInput](https://github.com/Sarwan/jQueryPluginUyghurInput)
 - [TerjimeFilimTori](https://github.com/Sarwan/TerjimeFilimTori)
 - [Online-Uyghur-Spell-Checker](https://github.com/mardan/Online-Uyghur-Spell-Checker)
-- []()
-- []()
-- []()
+
 
 # Desktop
 - [Picture-Book-Creator](https://github.com/Sarwan/Picture-Book-Creator)
-- []()
-- []()
-- []()
+
 
 # Resource
 - [Uyghur-Terms](https://github.com/Uyghur-LRs/Uyghur-Terms)
 - [Uyghur-Wordlist](https://github.com/Uyghur-LRs/Uyghur-Wordlist)
-- []()
+
  
 ## iOS
 - [UyghurSDK-iOS](https://github.com/Alimjan2009/UyghurSDK-iOS)
 - [UyghurKeyBoardForSwift](https://github.com/Sabirjan/UyghurKeyBoardForSwift)
-- []()
-- []()
+
 
 
 ## plugin/Extention
@@ -87,8 +75,7 @@ Awesome Open Source Projects in Uyghur Language
 
 ## Books
 - [JQueryBasic-Uyghur](https://github.com/IlhamTahir/JQueryBasic-Uyghur)
-- []()
-- []()
+
 
 
 ## Games
