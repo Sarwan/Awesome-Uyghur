@@ -40,7 +40,7 @@ Awesome Open Source Projects in Uyghur Language
 - [ug_vk](https://github.com/finalfantasia/ug_vk)
 - [ug_shaper](https://github.com/finalfantasia/ug_shaper)
 - [cn,uy segmentation](https://github.com/xperian/seg)
-
+- [Uyghur Syllable in C#,Java,PHP](https://github.com/Sabirjan/UyghurWordSyllable)
 
 ## Web
 
