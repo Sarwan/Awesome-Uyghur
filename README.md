@@ -49,7 +49,7 @@ Awesome Open Source Projects in Uyghur Language
 - [jQueryPluginUyghurInput](https://github.com/Sarwan/jQueryPluginUyghurInput)
 - [TerjimeFilimTori](https://github.com/Sarwan/TerjimeFilimTori)
 - [Online-Uyghur-Spell-Checker](https://github.com/mardan/Online-Uyghur-Spell-Checker)
-
+- [Online Paper Library](https://github.com/Sarwan/Library)
 
 # Desktop
 - [Picture-Book-Creator](https://github.com/Sarwan/Picture-Book-Creator)
