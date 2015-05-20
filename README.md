@@ -24,7 +24,7 @@ Awesome Open Source Projects in Uyghur Language
 - [UyghurKeyboard](https://github.com/Sabirjan/UyghurKeyboard)
 - [YanfonTorBatForAndroid](https://github.com/Sabirjan/YanfonTorBatForAndroid)
 - [UyghurAndroidApp_Qaq](https://github.com/Sabirjan/UyghurAndroidApp_Qaq)
-
+- [rss okuguq](https://github.com/tormahiri/rss-okuguq)
 
 ## Language Prosessing
 - [ChaghataiKeyboardLayout](https://github.com/Sarwan/ChaghataiKeyboardLayout)
@@ -50,6 +50,7 @@ Awesome Open Source Projects in Uyghur Language
 - [TerjimeFilimTori](https://github.com/Sarwan/TerjimeFilimTori)
 - [Online-Uyghur-Spell-Checker](https://github.com/mardan/Online-Uyghur-Spell-Checker)
 - [Online Paper Library](https://github.com/Sarwan/Library)
+- [Yahoo Pure.css ug](http://tormahiri.github.io/purecss/)
 
 # Desktop
 - [Picture-Book-Creator](https://github.com/Sarwan/Picture-Book-Creator)
@@ -72,7 +73,7 @@ Awesome Open Source Projects in Uyghur Language
 - [django-i18n-for-uyghurlanguage](https://github.com/almasgeek/django-i18n-for-uyghurlanguage)
 - [otyaz](https://github.com/ablimit/otyaz)
 - [wp-uighur-fonts](https://github.com/wp-plugins/wp-uighur-fonts)
-
+- [kolayjs for Node.js](http://tormahiri.github.io/kolayjs/)
 ## Books
 - [JQueryBasic-Uyghur](https://github.com/IlhamTahir/JQueryBasic-Uyghur)
 
