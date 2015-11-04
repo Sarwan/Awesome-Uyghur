@@ -41,7 +41,7 @@ Awesome Open Source Projects in Uyghur Language
 - [ug_shaper](https://github.com/finalfantasia/ug_shaper)
 - [cn,uy segmentation](https://github.com/xperian/seg)
 - [Uyghur Syllable in C#,Java,PHP](https://github.com/Sabirjan/UyghurWordSyllable)
-
+- [Uyghur resources](https://github.com/menzenski/Uyghur-resources)
 ## Web
 
 - [bootstrap-uyghur](https://github.com/Sarwan/bootstrap-uyghur)
@@ -59,6 +59,7 @@ Awesome Open Source Projects in Uyghur Language
 # Resource
 - [Uyghur-Terms](https://github.com/Uyghur-LRs/Uyghur-Terms)
 - [Uyghur-Wordlist](https://github.com/Uyghur-LRs/Uyghur-Wordlist)
+
 
  
 ## iOS
