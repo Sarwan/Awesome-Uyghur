@@ -78,6 +78,7 @@ Awesome Open Source Projects in Uyghur Language
 - [otyaz](https://github.com/ablimit/otyaz)
 - [wp-uighur-fonts](https://github.com/wp-plugins/wp-uighur-fonts)
 - [kolayjs for Node.js](http://tormahiri.github.io/kolayjs/)
+- [chrome-uyghur-font](https://github.com/kompasim/chrome-uyghur-font)
 
 ## Books
 - [JQueryBasic-Uyghur](https://github.com/IlhamTahir/JQueryBasic-Uyghur)
