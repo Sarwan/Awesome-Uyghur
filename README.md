@@ -48,7 +48,6 @@ Awesome Open Source Projects in Uyghur Language
 ## Web
 
 - [bootstrap-uyghur](https://github.com/Sarwan/bootstrap-uyghur)
-- [PrayerTimes-Uyghur](https://github.com/Sarwan/PrayerTimes-Uyghur)
 - [jQueryPluginUyghurInput](https://github.com/Sarwan/jQueryPluginUyghurInput)
 - [TerjimeFilimTori](https://github.com/Sarwan/TerjimeFilimTori)
 - [Online-Uyghur-Spell-Checker](https://github.com/mardan/Online-Uyghur-Spell-Checker)
